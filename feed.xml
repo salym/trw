@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Thierry Roland</title>
+    <title>Thierry Rolland</title>
     <link href="https://salym.github.io/trw/feed.xml" rel="self" />
     <link href="https://salym.github.io/trw" />
     <updated>2022-05-15T17:41:57+02:00</updated>
     <author>
-        <name>Thierry Roland</name>
+        <name>Thierry Rolland</name>
     </author>
     <id>https://salym.github.io/trw</id>
 
     <entry>
         <title>Présentation</title>
         <author>
-            <name>Thierry Roland</name>
+            <name>Thierry Rolland</name>
         </author>
         <link href="https://salym.github.io/trw/presentation.html"/>
         <id>https://salym.github.io/trw/presentation.html</id>
@@ -35,7 +35,7 @@
     <entry>
         <title>Post 4</title>
         <author>
-            <name>Thierry Roland</name>
+            <name>Thierry Rolland</name>
         </author>
         <link href="https://salym.github.io/trw/post-4.html"/>
         <id>https://salym.github.io/trw/post-4.html</id>
@@ -62,7 +62,7 @@
     <entry>
         <title>Post 3</title>
         <author>
-            <name>Thierry Roland</name>
+            <name>Thierry Rolland</name>
         </author>
         <link href="https://salym.github.io/trw/post-3.html"/>
         <id>https://salym.github.io/trw/post-3.html</id>
@@ -87,7 +87,7 @@
     <entry>
         <title>Post 2</title>
         <author>
-            <name>Thierry Roland</name>
+            <name>Thierry Rolland</name>
         </author>
         <link href="https://salym.github.io/trw/post-2.html"/>
         <id>https://salym.github.io/trw/post-2.html</id>
@@ -112,7 +112,7 @@
     <entry>
         <title>Post 1</title>
         <author>
-            <name>Thierry Roland</name>
+            <name>Thierry Rolland</name>
         </author>
         <link href="https://salym.github.io/trw/post-1.html"/>
         <id>https://salym.github.io/trw/post-1.html</id>

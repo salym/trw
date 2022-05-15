@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Thierry Roland",
+    "title": "Thierry Rolland",
     "description": "",
     "home_page_url": "https://salym.github.io/trw",
     "feed_url": "https://salym.github.io/trw/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Thierry Roland"
+        "name": "Thierry Rolland"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>",
             "image": "https://salym.github.io/trw/media/posts/5/85-800x600.jpg",
             "author": {
-                "name": "Thierry Roland"
+                "name": "Thierry Rolland"
             },
             "tags": [
                    "Présentation"
@@ -33,7 +33,7 @@
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>",
             "image": "https://salym.github.io/trw/media/posts/4/85-800x600.jpg",
             "author": {
-                "name": "Thierry Roland"
+                "name": "Thierry Rolland"
             },
             "tags": [
                    "tag3",
@@ -53,7 +53,7 @@
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>",
             "image": "https://salym.github.io/trw/media/posts/3/458-800x600.jpg",
             "author": {
-                "name": "Thierry Roland"
+                "name": "Thierry Rolland"
             },
             "tags": [
                    "tag2",
@@ -71,7 +71,7 @@
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>",
             "image": "https://salym.github.io/trw/media/posts/2/552-800x600.jpg",
             "author": {
-                "name": "Thierry Roland"
+                "name": "Thierry Rolland"
             },
             "tags": [
                    "Économie",
@@ -89,7 +89,7 @@
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium. </p>",
             "image": "https://salym.github.io/trw/media/posts/1/516-800x600.jpg",
             "author": {
-                "name": "Thierry Roland"
+                "name": "Thierry Rolland"
             },
             "tags": [
                    "tag3",
