@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://salym.github.io/trw/sitemap.xml

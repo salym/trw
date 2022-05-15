@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Thierry Roland</title>
+    <link href="https://salym.github.io/trw/feed.xml" rel="self" />
+    <link href="https://salym.github.io/trw" />
+    <updated>2022-05-15T17:09:26+02:00</updated>
+    <author>
+        <name>Thierry Roland</name>
+    </author>
+    <id>https://salym.github.io/trw</id>
+
+    <entry>
+        <title>Présentation</title>
+        <author>
+            <name>Thierry Roland</name>
+        </author>
+        <link href="https://salym.github.io/trw/presentation.html"/>
+        <id>https://salym.github.io/trw/presentation.html</id>
+            <category term="Présentation"/>
+
+        <updated>2022-05-15T17:09:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salym.github.io/trw/media/posts/5/85-800x600.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salym.github.io/trw/media/posts/5/85-800x600.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post 4</title>
+        <author>
+            <name>Thierry Roland</name>
+        </author>
+        <link href="https://salym.github.io/trw/post-4.html"/>
+        <id>https://salym.github.io/trw/post-4.html</id>
+            <category term="tag3"/>
+            <category term="tag2"/>
+            <category term="tag1"/>
+            <category term="Sidebar"/>
+            <category term="Articles"/>
+
+        <updated>2022-05-15T17:03:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salym.github.io/trw/media/posts/4/85-800x600.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salym.github.io/trw/media/posts/4/85-800x600.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post 3</title>
+        <author>
+            <name>Thierry Roland</name>
+        </author>
+        <link href="https://salym.github.io/trw/post-3.html"/>
+        <id>https://salym.github.io/trw/post-3.html</id>
+            <category term="tag2"/>
+            <category term="Articles"/>
+            <category term="Agriculture"/>
+
+        <updated>2022-05-15T17:03:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salym.github.io/trw/media/posts/3/458-800x600.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salym.github.io/trw/media/posts/3/458-800x600.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post 2</title>
+        <author>
+            <name>Thierry Roland</name>
+        </author>
+        <link href="https://salym.github.io/trw/post-2.html"/>
+        <id>https://salym.github.io/trw/post-2.html</id>
+            <category term="Économie"/>
+            <category term="tag1"/>
+            <category term="Articles"/>
+
+        <updated>2022-05-15T17:02:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salym.github.io/trw/media/posts/2/552-800x600.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salym.github.io/trw/media/posts/2/552-800x600.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post 1</title>
+        <author>
+            <name>Thierry Roland</name>
+        </author>
+        <link href="https://salym.github.io/trw/post-1.html"/>
+        <id>https://salym.github.io/trw/post-1.html</id>
+            <category term="tag3"/>
+            <category term="Technologie"/>
+            <category term="Articles"/>
+
+        <updated>2022-05-15T17:03:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salym.github.io/trw/media/posts/1/516-800x600.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salym.github.io/trw/media/posts/1/516-800x600.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
