@@ -3,7 +3,7 @@
     <title>Thierry Rolland</title>
     <link href="https://thierryrolland.info/feed.xml" rel="self" />
     <link href="https://thierryrolland.info" />
-    <updated>2022-05-23T16:00:28+02:00</updated>
+    <updated>2022-05-23T18:24:31+02:00</updated>
     <author>
         <name>Thierry Rolland</name>
     </author>
@@ -18,18 +18,8 @@
         <id>https://thierryrolland.info/presentation/</id>
             <category term="Présentation"/>
 
-        <updated>2022-05-23T16:00:28+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://thierryrolland.info/media/posts/5/85-800x600.jpg" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://thierryrolland.info/media/posts/5/85-800x600.jpg" alt="" />
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>
-            ]]>
-        </content>
+        <updated>2022-05-23T18:24:31+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

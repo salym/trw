@@ -13,8 +13,6 @@
             "id": "https://thierryrolland.info/presentation/",
             "url": "https://thierryrolland.info/presentation/",
             "title": "Présentation",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut&hellip;",
-            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel interdum purus, aliquam iaculis nunc. Curabitur rutrum condimentum vehicula. Ut a dui sit amet lacus tempor convallis vitae blandit nunc. Aliquam commodo ligula velit. Pellentesque lacinia leo mi, quis venenatis enim fermentum vel. Aliquam viverra accumsan elit eget gravida. Mauris sagittis egestas augue sit amet pretium.</p>",
             "image": "https://thierryrolland.info/media/posts/5/85-800x600.jpg",
             "author": {
                 "name": "Thierry Rolland"
@@ -23,7 +21,7 @@
                    "Présentation"
             ],
             "date_published": "2022-05-15T17:04:09+02:00",
-            "date_modified": "2022-05-23T16:00:28+02:00"
+            "date_modified": "2022-05-23T18:24:31+02:00"
         }
     ]
 }
